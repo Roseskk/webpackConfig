@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0 auto;
+    max-width: 1080px;
+
+    background-color: black;
+    color: white;
+}
+
+img {
+    object-fit: cover;
+}
