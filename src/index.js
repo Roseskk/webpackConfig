@@ -1,15 +1,6 @@
 import '../index.css'
+import App from "./modules/app";
 
-import Image from '../assets/logo.png'
 
-console.log('Hello World!');
-
-function createPage() {
-    const img = document.createElement('img')
-    img.src = Image
-
-    document.body.append(img)
-}
-
-createPage()
-
+const app = new App()
+app.run()
