@@ -1,5 +1,4 @@
 import './index.css';
-import InitApp from "./src/app";
+import App from "./src/app";
 
-
-InitApp()
+App()
