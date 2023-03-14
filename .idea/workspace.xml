@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4858682a-932a-4333-8ed4-eac6c0561167" name="Changes" comment="init">
+    <list default="true" id="4858682a-932a-4333-8ed4-eac6c0561167" name="Changes" comment="color">
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
@@ -4053,7 +4053,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678697942113</updated>
-      <workItem from="1678697943326" duration="5799000" />
+      <workItem from="1678697943326" duration="6117000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1678703153053</created>
@@ -4076,7 +4076,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678779738903</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="color">
+      <created>1678781449733</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678781449733</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -4095,6 +4102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="color" />
+    <option name="LAST_COMMIT_MESSAGE" value="color" />
   </component>
 </project>
