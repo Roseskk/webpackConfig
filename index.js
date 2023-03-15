@@ -1,4 +1,6 @@
 import './index.css';
-import App from "./src/app";
+import App from './src/app'
 
-App()
+const app =new App()
+
+app.run()
